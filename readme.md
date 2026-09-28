@@ -6,7 +6,7 @@ Virou rotina abrir a caixa de entrada ou o chat corporativo e dar de cara com um
 
 Em vez de se comunicar, a pessoa pede para o ChatGPT escrever, copia sem revisar e envia uma muralha de texto burocrática cheia de clichês como *"Espero que este e-mail o encontre bem"*, listas coloridas artificiais e parágrafos inflados.
 
-Eu criei a skill **RMIA**justamente para resolver isso.
+Eu criei a skill **RMIA** justamente para resolver isso.
 
 A skill foi criada para pegar esses textos horríveis, vindos de quem não sabe escrever ou de quem terceirizou o cérebro para a IA no piloto automático.... E reescrever como se quem mandou realmente soubesse se comunicar: de forma **humana**, **curta**, **direta ao ponto** e **sem cara de robô**.
 
